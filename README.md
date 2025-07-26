@@ -17,11 +17,11 @@ By examining the sales data, we aim to understand factors influencing sales, ide
 Dashboard Overview : 
 
 	
-	![Dashboard-Overview 1](https://github.com/user-attachments/assets/bef4d3c8-b457-4e1a-9706-498109d562d2)
+![Dashboard-Overview 1](https://github.com/user-attachments/assets/bef4d3c8-b457-4e1a-9706-498109d562d2)
 
 		
 	
-	![Dashboard-Overview 2](https://github.com/user-attachments/assets/14b506ea-9e96-497d-a19d-8a7e494c9522)
+![Dashboard-Overview 2](https://github.com/user-attachments/assets/14b506ea-9e96-497d-a19d-8a7e494c9522)
 
 	
 	
